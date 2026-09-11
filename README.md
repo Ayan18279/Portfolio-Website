@@ -2,7 +2,7 @@
 
 A modern, responsive, high-performance developer portfolio built with the **MERN Stack** (MongoDB, Express.js, React, Node.js), **Tailwind CSS**, and **Framer Motion**.
 
-![Portfolio Preview](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80)
+![Portfolio Preview](client/public/portfolio-preview.png)
 
 ---
 
